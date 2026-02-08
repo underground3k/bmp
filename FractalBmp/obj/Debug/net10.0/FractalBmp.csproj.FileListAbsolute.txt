@@ -1,0 +1,14 @@
+C:\Users\ignas\source\repos\FractalBmp\FractalBmp\bin\Debug\net10.0\FractalBmp.exe
+C:\Users\ignas\source\repos\FractalBmp\FractalBmp\bin\Debug\net10.0\FractalBmp.deps.json
+C:\Users\ignas\source\repos\FractalBmp\FractalBmp\bin\Debug\net10.0\FractalBmp.runtimeconfig.json
+C:\Users\ignas\source\repos\FractalBmp\FractalBmp\bin\Debug\net10.0\FractalBmp.dll
+C:\Users\ignas\source\repos\FractalBmp\FractalBmp\bin\Debug\net10.0\FractalBmp.pdb
+C:\Users\ignas\source\repos\FractalBmp\FractalBmp\obj\Debug\net10.0\FractalBmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignas\source\repos\FractalBmp\FractalBmp\obj\Debug\net10.0\FractalBmp.AssemblyInfoInputs.cache
+C:\Users\ignas\source\repos\FractalBmp\FractalBmp\obj\Debug\net10.0\FractalBmp.AssemblyInfo.cs
+C:\Users\ignas\source\repos\FractalBmp\FractalBmp\obj\Debug\net10.0\FractalBmp.csproj.CoreCompileInputs.cache
+C:\Users\ignas\source\repos\FractalBmp\FractalBmp\obj\Debug\net10.0\FractalBmp.dll
+C:\Users\ignas\source\repos\FractalBmp\FractalBmp\obj\Debug\net10.0\refint\FractalBmp.dll
+C:\Users\ignas\source\repos\FractalBmp\FractalBmp\obj\Debug\net10.0\FractalBmp.pdb
+C:\Users\ignas\source\repos\FractalBmp\FractalBmp\obj\Debug\net10.0\FractalBmp.genruntimeconfig.cache
+C:\Users\ignas\source\repos\FractalBmp\FractalBmp\obj\Debug\net10.0\ref\FractalBmp.dll
