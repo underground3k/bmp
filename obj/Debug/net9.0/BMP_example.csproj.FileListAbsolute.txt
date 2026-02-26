@@ -1,0 +1,14 @@
+E:\Downloads\BMP_example\BMP_example\bin\Debug\net9.0\BMP_example.exe
+E:\Downloads\BMP_example\BMP_example\bin\Debug\net9.0\BMP_example.deps.json
+E:\Downloads\BMP_example\BMP_example\bin\Debug\net9.0\BMP_example.runtimeconfig.json
+E:\Downloads\BMP_example\BMP_example\bin\Debug\net9.0\BMP_example.dll
+E:\Downloads\BMP_example\BMP_example\bin\Debug\net9.0\BMP_example.pdb
+E:\Downloads\BMP_example\BMP_example\obj\Debug\net9.0\BMP_example.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\BMP_example\BMP_example\obj\Debug\net9.0\BMP_example.AssemblyInfoInputs.cache
+E:\Downloads\BMP_example\BMP_example\obj\Debug\net9.0\BMP_example.AssemblyInfo.cs
+E:\Downloads\BMP_example\BMP_example\obj\Debug\net9.0\BMP_example.csproj.CoreCompileInputs.cache
+E:\Downloads\BMP_example\BMP_example\obj\Debug\net9.0\BMP_example.dll
+E:\Downloads\BMP_example\BMP_example\obj\Debug\net9.0\refint\BMP_example.dll
+E:\Downloads\BMP_example\BMP_example\obj\Debug\net9.0\BMP_example.pdb
+E:\Downloads\BMP_example\BMP_example\obj\Debug\net9.0\BMP_example.genruntimeconfig.cache
+E:\Downloads\BMP_example\BMP_example\obj\Debug\net9.0\ref\BMP_example.dll
