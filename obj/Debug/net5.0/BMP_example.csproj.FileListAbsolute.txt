@@ -28,4 +28,3 @@ C:\Users\ignas\Desktop\BMP_example\obj\Debug\net5.0\refint\BMP_example.dll
 C:\Users\ignas\Desktop\BMP_example\obj\Debug\net5.0\BMP_example.pdb
 C:\Users\ignas\Desktop\BMP_example\obj\Debug\net5.0\BMP_example.genruntimeconfig.cache
 C:\Users\ignas\Desktop\BMP_example\obj\Debug\net5.0\ref\BMP_example.dll
-C:\Users\ignas\Desktop\BMP_example\obj\Debug\net5.0\BMP_example.sourcelink.json
